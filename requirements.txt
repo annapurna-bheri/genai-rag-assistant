@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+python-dotenv
+google-genai
+faiss-cpu
+numpy
+pydantic
+python-jose
+passlib[bcrypt]
+sqlalchemy
+aiofiles
+jinja2
+python-multipart

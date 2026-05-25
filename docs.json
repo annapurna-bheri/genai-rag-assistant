@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Reset Password",
+    "content": "Users can reset passwords from Settings > Security > Reset Password."
+  },
+  {
+    "title": "Refund Policy",
+    "content": "Refund requests are processed within 5 business days after approval."
+  },
+  {
+    "title": "Subscription Upgrade",
+    "content": "Users can upgrade subscriptions from the billing dashboard."
+  },
+  {
+    "title": "Two Factor Authentication",
+    "content": "2FA can be enabled from security settings using authenticator apps."
+  },
+  {
+    "title": "Account Deletion",
+    "content": "Users can permanently delete accounts from profile settings."
+  },
+  {
+    "title": "Payment Failure",
+    "content": "If payment fails, users should retry using another payment method."
+  },
+  {
+    "title": "Support Contact",
+    "content": "Users can contact support through support@example.com."
+  },
+  {
+    "title": "Profile Update",
+    "content": "Users can update profile information from account settings."
+  }
+]
